@@ -23,3 +23,8 @@ unalias # delete your aliases
 enable
 disable
 logout # logs out of the shell
+# Looking for text
+grep # Global RegEx Print
+fgrep # Fast Global RegEx Print
+sed # Stream EDitor
+awk # Pattern matching language
